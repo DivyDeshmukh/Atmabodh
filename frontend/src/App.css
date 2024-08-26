@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap");
+
+.modern {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  -webkit-text-stroke: 0.5px whitesmoke;
+}
+
+.features::-webkit-scrollbar {
+  background: #000;
+  border-radius: 25px;
+  width: 10px;
+}
+
+.features::-webkit-scrollbar-thumb {
+  background: #ffe0c3;
+  border-radius: 25px;
+  width: 100%;
+  height: 15px;
+}
